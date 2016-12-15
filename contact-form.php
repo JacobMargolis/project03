@@ -1,9 +1,8 @@
-<!doctype html>
-<html>
-<head>
-	<title>Phonebook</title>
-</head>
-<body>
+<?php
+	$pageTitle = "Contact Form"; 
+	include "includes/top-part.inc";
+	include "includes/nav.inc";
+?>
 
 	<h1>Phonebook Entry</h1>
 
@@ -41,5 +40,4 @@
 
 	Or Go <a href=".">Back to the Index</a>
 
-</body>
-</html>
+<?php include "inc/footer.inc" ?>
