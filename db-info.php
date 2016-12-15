@@ -2,8 +2,8 @@
 
 // 1. Create a database connection
 	$dbhost = "localhost";
-	$dbuser = "phonebook";
+	$dbuser = "proj3db";
 	$dbpass = "";
-	$dbname = "phonebook";
+	$dbname = "proj3db";
 
  ?>

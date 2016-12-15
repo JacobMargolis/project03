@@ -2,9 +2,10 @@
 	
 	include "db-info.php";
 
-	$fname = Trim(stripslashes($_POST['fname']));
-	$lname = Trim(stripslashes($_POST['lname']));
+	$name = Trim(stripslashes($_POST['name']));
+	$email = Trim(stripslashes($_POST['email']));
 	$number = Trim(stripslashes($_POST['number']));
+	$message = Trim(stripslashes($_POST['message']));
 
 	$connection = new mysqli($dbhost, $dbuser, $dbpass, $dbname);
 
@@ -13,7 +14,7 @@
 	} 
 	echo "Connected successfully";
 
-	$query = "INSERT INTO friends (first_name, last_name, phone) VALUES ('$fname', '$lname', '$number')";
+	$query = "INSERT INTO proj3table (name, email, phone, message) VALUES ('$name', '$email', '$number', '$message')";
 
 	$result = mysqli_query($connection, $query);
 
