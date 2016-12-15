@@ -1,16 +1,17 @@
 <?php
 	$pageTitle = "Accomplishments"; 
-	include "includes/top-part.inc";
-	include "includes/nav.inc";
+	include "includes/top-part.inc.php";
 ?>
-
-	<h1> Accomplishments </h1>
 
 	<nav class="main-menu">
         <ul>
-            <li><a href="#first">Jill</a></li>
-            <li><a href="#second">Platform</a></li>
-            <li><a href="#third">Colophon</a></li>
+            <li><a href="#first">Z-Pattern</a></li>
+            <li><a href="#second">F-Pattern</a></li>
+            <li><a>|---------------------------------------------|</a></li>
+            <li><a href="accomplishments.php">Accomplishments</a></li>
+            <li><a href="Portfolio.php">Portfolio</a></li>
+            <li><a href="contact-form.php">Contact Form</a></li>
+
         </ul>
     </nav>
 
@@ -118,41 +119,7 @@
        </div><!-- .container -->
 
     </section>
-
-    <!-- Third Section -->
-    <section id="third">
-        <div class="container">
-
-            <h1>Colophon</h1>
-
-            
-
-                <div class="column1">
-                    <div class="card">
-                        <img src="images/alizah.jpg" alt="alizah">
-                        <h2>Alizah</h2>
-                        <p>Gathered content, worked on layout, made design and aesthetic decisions.</p>
-                    </div>
-                </div>
-
-                <div class="column2">
-                    <div class="card">
-                        <img src="images/fus.jpg" alt="jacob">
-                        <h2>Jacob</h2>
-                        
-                            <p>Chose topic, gathered content, worked on layout, was generally annoying.<p>
-                        
-                    </div>
-                </div>
-                <div class="sources">
-                    <p>The majority of the content for this website was taken from <a href="http://jill2016.com">Jill Stein's Campaign Website</a></p>
-
-                </div>
-            
-
-       </div><!-- .container -->
-
-    </section>
+   
 
 <!-- Use the following JavaScript code to do the smooth-scroll thing on the internal links -->
 <script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
@@ -176,4 +143,4 @@ $(function() {
 </script>
 
 
-<?php include "inc/footer.inc" ?>
+<?php include "includes/footer.inc.php"; ?>

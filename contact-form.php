@@ -1,12 +1,12 @@
 <?php
 	$pageTitle = "Contact Form"; 
-	include "includes/top-part.inc";
-	include "includes/nav.inc";
+	include 'includes/top-part.inc.php';
+	include 'includes/nav.inc';
 ?>
 
 	<h1>Phonebook Entry</h1>
 
-	<form method="post" action="database-write.php">
+	<form method="post" name="myForm" action="database-write.php" onsubmit="return(validate());">
 		
 		<div>
 			<label for="name">Name: </label>
@@ -38,6 +38,10 @@
 	<br>
 
 
-	Or Go <a href=".">Back to the Index</a>
+	<p> Or Go <a href=".">Back to the Index</a> </p>
 
-<?php include "inc/footer.inc" ?>
+
+<?php 
+	include 'includes/footer.inc.php';
+?>
+
