@@ -60,10 +60,15 @@ a:hover { color: #b2cecf;}
 	padding: 5px;
 }
 
+.acc-section {
+	padding-bottom: 5px;
+}
+
+
 /*	*************************************
 	Layout
 	************************************* */
-article, aside { 
+/*article, aside { 
 	display: table-cell;
 	padding: 25px;
 }
@@ -76,14 +81,29 @@ article p {
 	background-color: rgba(255,255,255,0.5);
 	padding: 20px; 
 }
-aside { background-color: #b2cecf; }
+aside { background-color: #b2cecf; }*/
 
 footer { margin-top: 15px; }
+
+.thumbnail {
+	float: left;
+	display: inline-block;
+}
+
+.description {
+	float: right;
+	margin-left: 15px;
+	display: inline-block;
+}
 
 /*	*************************************
 	State
 	************************************* */
-.current {
+/*.current {
 	background-color: black;
 	color: white;
+}*/
+
+.active {
+	background-color: black;
 }

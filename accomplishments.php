@@ -8,8 +8,8 @@
             <li><a href="#first">Z-Pattern</a></li>
             <li><a href="#second">F-Pattern</a></li>
             <li><a>|---------------------------------------------|</a></li>
-            <li><a href="accomplishments.php">Accomplishments</a></li>
-            <li><a href="Portfolio.php">Portfolio</a></li>
+            <li class="active"><a href="accomplishments.php">Accomplishments</a></li>
+            <li><a href="portfolio.php">Portfolio</a></li>
             <li><a href="contact-form.php">Contact Form</a></li>
 
         </ul>

@@ -265,3 +265,7 @@ img {
 	color: #003300;
 	text-decoration: none;
 }
+
+.active {
+	background-color: yellow;
+}

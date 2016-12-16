@@ -1,11 +1,9 @@
 <?php
 	$pageTitle = "Contact Form"; 
 	include 'includes/top-part.inc.php';
-	include 'includes/nav.inc';
+	include 'includes/nav.inc.php';
 ?>
-
-	<h1>Phonebook Entry</h1>
-
+	<br>
 	<form method="post" name="myForm" action="database-write.php" onsubmit="return(validate());">
 		
 		<div>
