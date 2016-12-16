@@ -20,13 +20,13 @@
         <div class="container">
 
         	<div class="z-area1">
-            	<h1><a href="#first"><img class="logo" src="images/logo.png" alt="logo"></a></h1>
+            	<h1><a href="#first"><img class="logo" src="images/jjmlogo.png" alt="logo"></a></h1>
             </div>
             <div class="z-area2">
-            	<a href="#platform">Read More About Stein's Platform</a>
+            	<a href="#platform">*Broken link*Learn more about Jacob</a>
             </div>
             <div class="background-photo">
-                <img src="images/background.jpg" alt="jill">
+                <img src="images/roofpull.jpg" alt="Roofus">
             </div>
             <div class="z-area3">
                 <p>Support Jill Stein's people-powered campaign! 
@@ -37,14 +37,6 @@
                 <a href="http://www.jill2016.com/donate">Donate Now!</a>
             </div>
 
-
-
-            <div class="content">
-
-                
-
-            </div><!-- .content -->
-
        </div><!-- .container -->
 
     </section>
@@ -54,19 +46,19 @@
         <div class="container">
 
             <div class="f-area1">
-                <h1><a href="#second"><img class="logo" src="images/logo.png" alt="logo"></a></h1>
+                <a href="#second"><img class="logo" src="images/jjmlogo.png" alt="logo"></a>
             </div> <!-- f-area1 -->
 
             <div class="f-area2">
                 <nav class="platform-menu">
                     <ul>
-                        <li><a href="#climate">Climate</a></li>
-                        <li><a href="#poverty">Poverty</a></li>
-                        <li><a href="#health">Health</a></li>
+                        <li><a href="#lifeguard">Lifeguarding</a></li>
+                        <li><a href="#frisbee">Frisbee</a></li>
+                        <li><a href="#computer">Computer Science</a></li>
                     </ul>
                 </nav>
             </div> <!-- f-area2 -->
-                <h2>Platform For the 2016 Presidentital Campaign</h2>
+                <h2>Things Jacob has done</h2>
     
 
             <div class="content">
@@ -74,44 +66,46 @@
                     
                     <div class="platform-idea">
 
-                        <h3 id="climate">Climate Action: Protecting Mother Earth and Humanity</h3>
+                        <h3 id="lifeguard">Lifeguarding</h3>
 
-                        <img class="thumb" src="images/earth.png" alt="earth">
+                        <img class="thumb" src="images/lifeguard.jpg" alt="lifeguard">
 
 
-                        <p>Enact an emergency Green New Deal to turn the tide on climate change, revive the economy and make wars for oil obsolete. Initiate a WWII-scale national mobilization to halt climate change, the greatest threat to humanity in our history.
+                        <p>I am an accomplished lifeguard, water safety instructor, and lifeguard instructor. People try to drown around me so that I can save them. Awwww! <br><br> Once, when I was lifeguarding at a summer camp lake, I had to evacuate the campers from the water because a child had spotted what he described as "a huge turtle". Kid wasn't joking, the dude must've been 75 pounds and a foot and a half across. <br><br> It took three lifeguards with a fishing net to corral the turtle into a trash can filled with water. We tried to flip the can upright and out of the lake, but it became clear that the turtle was too big to lie flat in the can. Eventually we got the creature into a full size rowboat, turned out that was the only thing we had at the beach that could contain the monster. 
+
                         </p>
                 
                     </div> <!--platform-idea -->
 
                     <div class="platform-idea">
 
-                        <h3 id="poverty">End Poverty</h3>
+                        <h3 id="frisbee">Throwing Flat Circles</h3>
 
-                        <img class="thumb" src="images/hands.jpg" alt="hands">
+                        <img class="thumb" src="images/disc.jpg" alt="disc">
 
                             <p>
-                                Guarantee economic human rights, including access to food, water, housing, and utilities, with effective anti-poverty programs to ensure every American a life of dignity. Establish the right to a living wage job.Reform public assistance to be a true safety net that empowers participants and provides a decent standard of living.
+                                Four years of hard work as a handler pay off! As senior captain of the U of R Men's Ultimate Frisbee team, I led our program to our first ever tournament win. Frisbee is fun.
                             </p>
 
                     </div> <!--platform-idea -->
 
                     <div class="platform-idea">
 
-                        <h3 id="health">Health Care as a Right</h3>
+                        <h3 id="computer">Computer Science</h3>
 
-                        <img class="thumb" src="images/healthcare.png" alt="healthcare">
+                        <img class="thumb" src="images/computer.png" alt="computer science">
 
                             <p>
-                                Establish an improved “Medicare for All” single-payer public health program to provide everyone with quality health care, at huge savings by eliminating the $400 billion annually spent on  the paperwork and bureaucracy of health insurance.</p>
+                                I've done some cool computer science stuff, like this very project! That's something.
+                            </p>
 
                     </div> <!--platform-idea -->
 
                 </div><!--f-area3 -->
 
                 <div class="f-area4">
-                    <img src="images/jill-point.jpg" alt="Jill Stein pointing">
-                    <p> Jill Stein points in the air like she just don't care. Alternatively, she might be about to drop the hottest mixtape of all time</p>
+                    <img src="images/cabbage.jpg" alt="Cabbage">
+                    <p> I once ate a whole cabbage! If that's not an accomplishment worth sharing I don't know what is.</p>
                 </div> <!-- f-area4 -->
 
             </div><!-- .content -->

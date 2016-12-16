@@ -61,7 +61,7 @@ a:hover { color: #b2cecf;}
 }
 
 .acc-section {
-	padding-bottom: 5px;
+	padding-bottom: 5%;
 }
 
 
@@ -91,9 +91,12 @@ footer { margin-top: 15px; }
 }
 
 .description {
-	float: right;
 	margin-left: 15px;
 	display: inline-block;
+}
+
+.link {
+	margin-top: 10px;
 }
 
 /*	*************************************
