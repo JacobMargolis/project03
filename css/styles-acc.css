@@ -68,9 +68,14 @@ img {
 	max-width: 100%;
 } 
 
-.z-area1 {
+/*.z-area1 {
 	padding: 10px;
 }
+*/
+
+/*.z-area1 img {
+	max-height: 100px; 
+}*/
 
 .z-area2 {
 	padding: 20px;
@@ -98,7 +103,7 @@ img {
 }
 
 .z-area4 {
-	padding: 40px;
+	padding: 30px;
 	background-color: #ffad33;
 	text-align: center;
 	display: inline-block;
@@ -114,8 +119,9 @@ img {
 }
 
 .f-area1 {
-	padding: 10px;
+/*	padding: 10px;*/
 	display: inline-block;
+	padding-right: 350px;
 }
 
 .f-area2 {
@@ -163,7 +169,9 @@ img {
 .platform-idea {
 	width: 100%;
 	display: inline-block;
-	padding-bottom: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid black;
 }
 
 .platform-idea h3{
@@ -193,8 +201,8 @@ img {
 }
 
 .platform-menu {
-	z-index: 1000; /* required - makes sure the menu doesn't get covered by anything else */
-	width: 100%; /* required - makes the menu go all the way across the viewport */
+	z-index: 1000;  /*required - makes sure the menu doesn't get covered by anything else */
+	width: 100%;  /*required - makes the menu go all the way across the viewport */
 	background-color: #ffad33; 
 	display: inline-block;
 }
@@ -204,10 +212,9 @@ img {
 	margin: 0;
 	padding-left: 0;
 	list-style-type: none;
-
-	/* required - get LIs to line-up side-by-side */
+/*	 required - get LIs to line-up side-by-side */
 	display: flex;
-	justify-content: center; /* optional - lookup lots of options */
+	justify-content: center; /* optional - lookup lots of options*/ 
 }
 
 .platform-menu a { 
