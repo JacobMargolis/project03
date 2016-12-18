@@ -3,6 +3,12 @@
 	include 'includes/top-part.inc.php';
 	include 'includes/nav.inc.php';
 ?>
+	<div class="container">
+		<header>
+			<br><br><br>
+			<h1>Project 3 | Contact Form </h1>
+		</header>
+
 	<br>
 	<form method="post" name="myForm" action="database-write.php" onsubmit="return(validate());">
 		
@@ -34,6 +40,8 @@
 		<input type="submit" value="Send">
 	</form>
 	<br>
+
+
 
 
 	<p> Or Go <a href=".">Back to the Index</a> </p>

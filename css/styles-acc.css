@@ -192,14 +192,6 @@ img {
 	text-decoration: none;
 }
 
-.main-menu {
-	background-color: #ffad33; 
-}
-
-.main-menu a {
-	color: #001a00;
-}
-
 .platform-menu {
 	z-index: 1000;  /*required - makes sure the menu doesn't get covered by anything else */
 	width: 100%;  /*required - makes the menu go all the way across the viewport */
@@ -270,8 +262,4 @@ img {
 .sources a {
 	color: #003300;
 	text-decoration: none;
-}
-
-.active {
-	background-color: yellow;
 }
