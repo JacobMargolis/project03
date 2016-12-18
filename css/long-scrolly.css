@@ -14,6 +14,7 @@ section {
     padding-top: 75px; /* how tall is the persistent nav bar at the top? */
     padding-bottom: 25px; /* typical - keep content away from the next section */
     text-align: center; /* typical for long scrolly pages */
+    overflow: auto;
 }
 
  /* typical - alter the bg for every other section */

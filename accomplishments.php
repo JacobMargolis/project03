@@ -35,6 +35,7 @@
     <section id="second">
         <div class="container">
 
+        	<div class="wrap">
             <div class="f-area1">
                 <a href="#second"><img class="logo" src="images/jjmlogo.png" alt="logo"></a>
             </div> <!-- f-area1 -->
@@ -48,7 +49,11 @@
                     </ul>
                 </nav>
             </div> <!-- f-area2 -->
+            </div> <!-- wrap -->
+
+            <div class="wrap">
                 <h2>Things Jacob has done</h2>
+            
     
 
             <div class="content">
@@ -107,6 +112,7 @@
                 </div> <!-- f-area4 -->
 
             </div><!-- .content -->
+            </div> <!-- wrap -->
 
        </div><!-- .container -->
 

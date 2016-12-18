@@ -51,7 +51,11 @@ body {
 
 .content {
 	text-align: left;
-	overflow: auto;
+}
+
+.wrap {
+	float: left;
+	width: 100%;
 }
 
 img {
@@ -105,7 +109,7 @@ img {
 
 .z-area4 {
 	padding: 30px;
-	background-color: #ffad33;
+	background-color: #b3e6ff;
 	text-align: center;
 	display: inline-block;
 	float: right;
@@ -122,7 +126,8 @@ img {
 .f-area1 {
 /*	padding: 10px;*/
 	display: inline-block;
-	padding-right: 350px;
+	width: 25%;
+	float: left;
 }
 
 .f-area2 {
@@ -133,6 +138,7 @@ img {
 	float: right;
 	margin-top: 20px;
 	margin-bottom: 10px;
+	width: 65%;
 }
 
 .f-area2 a {
@@ -197,7 +203,7 @@ img {
 .platform-menu {
 	z-index: 1000;  /*required - makes sure the menu doesn't get covered by anything else */
 	width: 100%;  /*required - makes the menu go all the way across the viewport */
-	background-color: #ffad33; 
+	background-color: #b3e6ff; 
 	display: inline-block;
 }
 
@@ -257,7 +263,7 @@ img {
 	padding: 30px;
 	margin-top: 30px;
 	width: 80%;
-	background-color: #ffad33;
+	background-color: #b3e6ff;
 	display: inline-block;
 }
 
