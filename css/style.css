@@ -25,6 +25,12 @@ a {
   text-decoration: none;
 }
 
+.container {
+  margin: 0 auto;
+  width: 80%;
+  max-width: 960px; 
+}
+
 /* -------------------------------- 
 
 Portfolio Navigation 

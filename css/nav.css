@@ -4,6 +4,7 @@
 .main-menu {
   position: fixed; /* required - magic */
   top: 0; /* required - makes sure the menu sits where it's supposed to sit */
+  left: 0;
   z-index: 1000; /* required - makes sure the menu doesn't get covered by anything else */
   width: 100%; /* required - makes the menu go all the way across the viewport */
   background-color: #ffad33; 
