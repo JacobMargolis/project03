@@ -19,11 +19,11 @@ p { margin-top: 0; }
 }
 
 #first, #third {
-	background-color: #ccffcc;
+	background-color: #cd98af;
 }
 
 #second {
-	background-color: #e6ffe6;
+	background-color: #eedde4;
 }
 
 #third h1 {
@@ -79,7 +79,7 @@ img {
 
 .z-area2 {
 	padding: 20px;
-	background-color: #80ff80;
+	background-color: #43202f;
 	text-align: center;
 	display: inline-block;
 	float: right;
@@ -88,7 +88,7 @@ img {
 }
 
 .z-area2 a {
-	color: #001a00;
+	color: #eedde4;
 	text-decoration: none;
 	font-family: "lucida grande", arial, sans-serif;
 }
@@ -97,9 +97,10 @@ img {
 	float: left;
 	max-width: 50%;
 	text-align: left;
-	background-color: #80ff80;
+	background-color: #43202f;
 	margin: 10px;
 	padding: 10px;
+	color: #eedde4;
 }
 
 .z-area4 {
@@ -126,7 +127,7 @@ img {
 
 .f-area2 {
 	padding: 20px;
-	background-color: #80ff80;
+	background-color: #43202f;
 	text-align: center;
 	display: inline-block;
 	float: right;
@@ -180,11 +181,12 @@ img {
 
 .f-area4 {
 	padding: 20px;
-	background-color: #80ff80;
+	background-color: #43202f;
 	text-align: center;
 	display: inline;
 	float: right;
 	max-width: 25%;
+	color: #eedde4;
 }
 
 .f-area4 a {
